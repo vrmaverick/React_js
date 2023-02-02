@@ -1,0 +1,18 @@
+body{
+margin: 0;
+padding: 0;
+}
+#footer {
+position: relative;
+display:inline-block;
+top: 45vh;
+height: 15vh;
+width: 100vw;
+background-color: #000000;
+color: aliceblue;
+font-weight: 400;
+font-family: sans-serif;
+font-size: larger;
+/* padding: 3vh; */
+padding-top: 5vh;
+text-align: center;}
